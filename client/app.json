@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "index",
+    "article"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "文章列表",
+    "navigationBarTextStyle":"black"
+  }
+}

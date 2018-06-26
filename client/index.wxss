@@ -1,0 +1,5 @@
+.item{
+  margin:25rpx 0rpx 25rpx 0rpx;
+  background-color: lightblue;
+  font-size: 60rpx;
+}
